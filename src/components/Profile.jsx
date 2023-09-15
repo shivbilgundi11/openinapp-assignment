@@ -14,9 +14,9 @@ const Profile = () => {
   const [activeBtn, setactiveBtn] = useState("basic");
 
   
-    isModalActive
-      ? (document.body.style.overflow = "hidden")
-      : (document.body.style.overflow = "scroll")
+    // isModalActive
+    //   ? (document.body.style.overflow = "hidden")
+    //   : (document.body.style.overflow = "scroll")
   
 
   // Profile-Form-State-Management...

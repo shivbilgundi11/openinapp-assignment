@@ -527,7 +527,7 @@
     /* top: 0; */
     left: 0;
     right: 0; 
-    bottom: -55%;
+    bottom: 0;
     background-color: #2827278e;
 }
 
@@ -762,6 +762,8 @@
         background-color: #f9e9eb;
     }
 
+        
+
 
 }
 
@@ -774,4 +776,6 @@
     .profile__links {
         grid-template-columns: 1fr;
     }
+
+    
 }
