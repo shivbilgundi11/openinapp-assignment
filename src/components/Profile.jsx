@@ -16,7 +16,7 @@ const Profile = () => {
   
     isModalActive
       ? (document.body.style.overflow = "hidden")
-      : (document.body.style.overflow = "none")
+      : (document.body.style.overflow = "scroll")
   
 
   // Profile-Form-State-Management...
